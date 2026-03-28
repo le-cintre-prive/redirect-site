@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/(.*)",
-      "destination": "https://lecintreprive.tn/$1",
+      "destination": "https://www.lecintreprive.tn/$1",
       "permanent": true
     }
   ]
